@@ -10,7 +10,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/google/gopacket"
+	"github.com/dottedmag/gopacket"
 )
 
 func TestNewIPEndpoint(t *testing.T) {
